@@ -7,8 +7,8 @@
 
 ### Sobre mim:
 
-Cursando Técnico em Informática
-Cursando Sistemas de Informação
+- Cursando Técnico em Informática
+- Cursando Sistemas de Informação
 
 ### Contatos:
 
